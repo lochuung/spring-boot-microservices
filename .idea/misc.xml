@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springboot-microservices/employee-service" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/springboot-microservices/department-service/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-microservices/service-registry/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-microservices/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-microservices/employee-service/pom.xml" />
       </list>
     </option>
   </component>

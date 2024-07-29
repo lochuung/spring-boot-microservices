@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/springboot-microservices/config-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-microservices/department-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-microservices/employee-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-microservices/service-registry/src/main/java" charset="UTF-8" />
   </component>
 </project>

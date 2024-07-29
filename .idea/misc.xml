@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/springboot-microservices/service-registry/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-microservices/config-server/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-microservices/employee-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-microservices/api-gateway/pom.xml" />
       </list>
     </option>
   </component>
